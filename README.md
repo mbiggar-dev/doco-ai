@@ -67,7 +67,7 @@ ollama pull qwen2.5:7b
 ### 3. Clone and Setup
 
 ```bash
-git clone https://github.com/yourusername/doco-ai.git
+git clone https://github.com/mbiggar-dev/doco-ai.git
 cd doco-ai
 
 # Create virtual environment
