@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Vector database
+data/
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Local documents (optional - depends if you want example docs)
+
+
+# Environment variables
+.env
