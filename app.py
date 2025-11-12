@@ -20,7 +20,7 @@ def chat(message, history):
 # gradio's chatinterface is dead simple for this use case
 demo = gr.ChatInterface(
     fn=chat,
-    title="Marc's Private AI File Assistant",
+    title="Private AI File Assistant",
     description="ask questions about your indexed documents",
     examples=[
         "summarise the main concepts",
